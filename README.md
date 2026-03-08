@@ -39,5 +39,3 @@ This project helps beginners learn:
 * Using **JavaScript events**
 * Implementing **real-time character counting**
 * Styling web pages with **Tailwind CSS**
-
-Just tell me 👍
